@@ -7,7 +7,8 @@ Vulcan is an advanced cheat detection system that operates at the packet level w
 Translation of the plugin!
 
 The config.yml file contains a translation into Russian
-technical support permission:
+Technical support permission:
+
 <h1>
     <img src="Technical-support-permission.png" alt="support-permission" width="400" /> 
 </h1>
