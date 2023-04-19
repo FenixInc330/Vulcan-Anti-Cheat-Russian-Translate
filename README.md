@@ -9,7 +9,7 @@ Translation of the plugin!
 The config.yml file contains a translation into Russian
 technical support permission:
 <h1>
-    <img src="Technical support permission.png" alt="Technical support permission:" width="600" /> 
+    <img src="Technical_support_permission.png" alt="Technical support permission:" width="600" /> 
 </h1>
 
 Support​
