@@ -1,5 +1,5 @@
 <h1>
-    <img src="Vulcan-logo.svg" alt="Vulcan" width="400" /> 
+    <img src="Vulcan-logo.png" alt="Vulcan" width="400" /> 
 </h1>
 
 Vulcan is an advanced cheat detection system that operates at the packet level with version support for 1.7 all the way to 1.19.4.
