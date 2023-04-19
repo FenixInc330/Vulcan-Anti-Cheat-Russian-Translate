@@ -16,7 +16,7 @@ No need to spend money on a fancy configuration or an additional addon, Vulcan s
 Vulcan is open source and is available under the GNU Lesser
 General Public License v3.
 
-A Bukkit server implementation (such as [Paper](https://papermc.io)) and the [Vulcan plugin]([https://dev.bukkit.org/projects/worldedit](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-4.83626/) are required to use WorldGuard. You can get a release copy of WorldGuard from the [Vulcan site](https://dev.bukkit.org/projects/worldguard](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-4.83626/).
+A Bukkit server implementation (such as [Paper](https://papermc.io)) and the [Vulcan plugin](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-4.83626/) are required to use WorldGuard. You can get a release copy of WorldGuard from the [Vulcan site](https://www.spigotmc.org/resources/vulcan-anti-cheat-advanced-cheat-detection-1-7-1-19-4.83626/).
 
 Compiling
 ---------
